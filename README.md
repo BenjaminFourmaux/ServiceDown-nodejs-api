@@ -21,4 +21,5 @@ Another one JS lib, to know if a service is down
 
 ## Supporting
 If you like this project and if you want, make a donnation
+
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Benwarrior37?country.x=FR&locale.x=fr_FR)
