@@ -5,6 +5,10 @@ Another one JS lib, to know if a service is down
 
 ## Get stated :rocket:
 ### installation
+Before lanching, you need to install some package :
+```
+npm install axios
+```
 
 ### Use
 
