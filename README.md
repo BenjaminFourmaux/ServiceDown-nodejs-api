@@ -11,6 +11,7 @@ Another one JS lib, to know if a service is down
 ## Roadmap
 - [ ] Send a request to get a service statut
 - [ ] Define status (Down, Ok, Warning, None)
+- [ ] Add multi-country service down ?
 
 ## Version
 [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api)](https://github.com/BenjaminFpurmaux/ServiceDown/realease)
