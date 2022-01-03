@@ -19,7 +19,7 @@ npm install cheerios
 - [ ] Add multi-country service down ?
 
 ## Version
-[![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api)](https://github.com/BenjaminFourmaux/ServiceDown/realease)
+[![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api)](https://github.com/BenjaminFourmaux/ServiceDown_api/realease)
 
 - **v1.0.0** : First one release ! You can now get the status of an service
 
