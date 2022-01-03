@@ -15,13 +15,13 @@ npm install cheerios
 
 ## Roadmap
 - [x] Send a request to get a service statut
-- [ ] Define status (Down, Ok, Warning, None)
+- [x] Define status (Down, Ok, Warning, None)
 - [ ] Add multi-country service down ?
 
 ## Version
-[![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api)](https://github.com/BenjaminFourmaux/ServiceDown_api/releases)
+[![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown_api/releases)
 
-- **v1.0.0** : First one release ! You can now get the status of an service
+- **v1.0.0** : First one release ! You can now get the status of an service [more imformation](CHANGELOG.md#one-v100)
 
 ## Contributor
 [![](https://badgen.net/github/contributors/BenjaminFourmaux/ServiceDown_api)](https://github.com/BenjaminFourmaux/ServiceDown_api/graphs/contributors)
