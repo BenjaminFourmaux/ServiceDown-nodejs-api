@@ -12,6 +12,15 @@ npm install cheerios
 ```
 
 ### Use
+Use the function ``getServiceStatus()`` with the service name to get the service status. You received a JSON responce :
+```
+{
+  service_status: "warning",
+  src: "https://istheservicedown.fr/statut/facebook",
+  datetime: 2022-01-03T10H00:00.000Z,
+  country: "fr"
+}
+```
 
 ## Roadmap
 - [x] Send a request to get a service statut
