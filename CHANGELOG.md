@@ -6,7 +6,8 @@
  - Add new function ``getStatusCause()`` to get the cause of the status
 
 ### Changing
- - Get status-summary from DOM element 
+ - Get status-summary from DOM element
+ - API response frame (in order : service_name, service_status, status_cause, country, src, datetime)
 
 ### Changing
 nothing has been change
