@@ -8,7 +8,7 @@ Another one JS lib, to know if a service is down
 Before lanching, you need to install some package :
 ```
 npm install axios
-npm install cheerios
+npm install cheerio
 ```
 
 ### Use
