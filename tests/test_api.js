@@ -16,10 +16,7 @@ const Api = new ServiceDown_api();
 	// Api.country = "fr";
 	
 	/** getServiceStatus **/
-	result = await Api.getServiceStatus("starlink");
+	result = await Api.getServiceStatus("free");
 	console.log(result);
-	
-	
-	
 	
 })()
