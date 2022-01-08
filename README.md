@@ -29,7 +29,7 @@ Use the function ``getServiceStatus()`` with the service name to get the service
 - [x] Define status (Down, Ok, Warning, None)
 - [x] Response return the service name that we have just ask
 - [x] Response return the cause of the status of the service we have just ask 
-- [ ] Response return cause of the trouble if the service is down 
+- [ ] Get report numbers (max, min, average, now)
 - [ ] Add multi-country service down ?
 
 ## Version
