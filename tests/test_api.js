@@ -16,7 +16,7 @@ const Api = new ServiceDown_api();
 	// Api.country = "fr";
 	
 	/** getServiceStatus **/
-	result = await Api.getServiceStatus("tiktok");
+	result = await Api.getServiceStatus("starlink");
 	console.log(result);
 	
 	
