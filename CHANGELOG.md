@@ -1,5 +1,15 @@
 # Changelog
-[![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api?cache=600)]() [![](https://badgen.net/github/branches/BenjaminFourmaux/ServiceDown_api)]() [![](https://badgen.net/github/releases/BenjaminFourmaux/ServiceDown_api)]() [![](https://badgen.net/github/tags/BenjaminFourmaux/ServiceDown_api)]()
+[![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown_api?cache=600)]() [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api?cache=600)]() [![](https://badgen.net/github/branches/BenjaminFourmaux/ServiceDown_api)]() [![](https://badgen.net/github/releases/BenjaminFourmaux/ServiceDown_api)]() [![](https://badgen.net/github/tags/BenjaminFourmaux/ServiceDown_api)]()
+
+## V1.2.0
+### Adding
+ - Add new function ``getStatusCause()`` to get the cause of the status
+
+### Changing
+ - Get status-summary from DOM element 
+
+### Changing
+nothing has been change
 
 ## V1.1.0
 ### Adding
