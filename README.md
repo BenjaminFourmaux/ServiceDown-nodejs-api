@@ -1,4 +1,4 @@
-# ServiceDown_api
+# ServiceDown-js-api
 [![](https://badgen.net/badge/Node.JS/%3E%3D%2010.16.0/green)]()
 
 Another one JS lib, to know if a service is down
@@ -33,14 +33,14 @@ Use the function ``getServiceStatus()`` with the service name to get the service
 - [ ] Add multi-country service down ?
 
 ## Version
-[![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown_api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown_api/tags) [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown_api/releases)
+[![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/tags) [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/releases)
 
 - **v1.2.0** : Add statut cause to the responde object [more imformation](CHANGELOG.md#one-v120)
 - **v1.1.0** : Add service name to the response object and get the statut of a service by his canonic name [more imformation](CHANGELOG.md#one-v110)
 - **v1.0.0** : First one release ! You can now get the status of an service [more imformation](CHANGELOG.md#one-v100)
 
 ## Contributor
-[![](https://badgen.net/github/contributors/BenjaminFourmaux/ServiceDown_api)](https://github.com/BenjaminFourmaux/ServiceDown_api/graphs/contributors)
+[![](https://badgen.net/github/contributors/BenjaminFourmaux/ServiceDown-js-api)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/graphs/contributors)
 - :crown: [Benjamin Fourmaux](https://github.com/BenjaminFourmaux)
 
 ## Supporting
