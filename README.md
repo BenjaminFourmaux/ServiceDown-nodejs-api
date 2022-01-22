@@ -1,7 +1,9 @@
 # ServiceDown-js-api
 [![](https://badgen.net/badge/Node.JS/%3E%3D%2010.16.0/green)]()
 
-Another one JS lib, to know if a service is down
+Another one JS lib, to know if a service is down.
+I want to make services status information **open data**.
+With a whole bunch of metrics like the number of reports, average report, in which region ...
 
 ## Get stated :rocket:
 ### installation
