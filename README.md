@@ -5,6 +5,10 @@ Another one JS lib, to know if a service is down.
 I want to make services status information **open data**.
 With a whole bunch of metrics like the number of reports, average report, in which region ...
 
+### Disclaimer
+This api is based on the website [Is The Service Down ?](https://istheservicedown.com/), is a bug reporting website, considered the data unreliable at 100%
+And please not abused to spam ping request the website.
+
 ## Get stated :rocket:
 ### installation
 Before lanching, you need to install some package :
@@ -12,9 +16,22 @@ Before lanching, you need to install some package :
 npm install axios
 npm install cheerio
 ```
+Place the unzipped folder "ServiceDown-js-apî" at your project root
+Call this lib in your js file like that :
+```
+const ServiceDown_api = require('./ServiceDown-js-api/lib/ServiceDown_api.js');
+const API = new ServiceDown_api();
+```
+and enjoy !
 
 ### Use
-Use the function ``getServiceStatus()`` with the service name to get the service status. You received a JSON responce :
+Use the function ``getServiceStatus()`` in a asynchronous callback, with the service name to get the service status. 
+```
+(async () => {
+  serviceStatus = await API.getServiceStatus("facebook");
+}) ()
+```
+You received a JSON responce :
 ```
 {
   service_name : "Facebook",
