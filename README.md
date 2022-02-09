@@ -1,5 +1,6 @@
-# ServiceDown-js-api
+# ServiceDown-nodejs-api
 [![](https://badgen.net/badge/Node.JS/%3E%3D%2010.16.0/green)]()
+[![](https://badgen.net/badge/Down/detector/red)]()
 
 Another one JS lib, to know if a service is down.
 I want to make services status information **open data**.
