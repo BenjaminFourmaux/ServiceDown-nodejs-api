@@ -1,0 +1,33 @@
+{
+	"config": {
+		"api": {
+			"name": "Is The Service down ?",
+			"domain": "istheservicedown",
+			"protocol": "https://"
+		},
+		"country": [
+			["DEFAULT", ".com"],
+			["FR", ".fr"],
+			["US", ".com"],
+			["EN", ".uk"]
+		]
+	},
+	"servicesList": [
+		{
+			"canonicName": "GOOGLE", 
+			"serviceInfo": {
+				"name": "Google",
+				"slug": "/statut/google-cloud",
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "FACEBOOK",
+			"serviceInfo": {
+				"name": "Facebook",
+				"slug": "/statut/facebook",
+				"country": ["FR"]
+			}
+		}
+	]
+}
