@@ -26,10 +26,10 @@ const API = new ServiceDown_api();
 and enjoy !
 
 ### Use
-Use the function ``getServiceStatus()`` in a asynchronous callback, with the service name to get the service status. 
+Use the function ``getServiceStatus()`` in a asynchronous callback, with the service name to get the service status and the country (by default is .com pinged). 
 ```
 (async () => {
-  serviceStatus = await API.getServiceStatus("facebook");
+  serviceStatus = await API.getServiceStatus("facebook", "fr");
 }) ()
 ```
 You received a JSON responce :
@@ -38,6 +38,11 @@ You received a JSON responce :
   service_name : "Facebook",
   service_status : "warning",
   status_cause : "login and website",
+  status_report_stats: {
+    0 : { name : "Internet", purcent : "30" },
+    1 : { name : "Wi-Fi", purcent : "25" },
+    ...
+  },
   country : "fr",
   src : "https://istheservicedown.fr/statut/facebook",
   datetime : 2022-01-03T10H00:00.000Z
@@ -49,12 +54,15 @@ You received a JSON responce :
 - [x] Define status (Down, Ok, Warning, None)
 - [x] Response return the service name that we have just ask
 - [x] Response return the cause of the status of the service we have just ask 
+- [x] Metrics: report stats info
 - [ ] Get report numbers (max, min, average, now)
-- [ ] Add multi-country service down ?
+- [ ] Get down area (city and number of report)
+- [x] Add multi-country service down ?
 
 ## Version
 [![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/tags) [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/releases)
 
+- **v1.5.0** : "i18n" Change config file and add report stats info in the response [more information](CHANGELOG.md#one-v150)
 - **v1.2.0** : Add statut cause to the responde object [more imformation](CHANGELOG.md#one-v120)
 - **v1.1.0** : Add service name to the response object and get the statut of a service by his canonic name [more imformation](CHANGELOG.md#one-v110)
 - **v1.0.0** : First one release ! You can now get the status of an service [more imformation](CHANGELOG.md#one-v100)
@@ -66,7 +74,7 @@ You received a JSON responce :
 ## Supporting
 If you like this project and if you want, make a donnation
 
-[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://streamlabs.com/techben-googlefanfr)
 
 
 
