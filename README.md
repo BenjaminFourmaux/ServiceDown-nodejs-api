@@ -58,6 +58,7 @@ You received a JSON responce :
 - [ ] Get report numbers (max, min, average, now)
 - [ ] Get down area (city and number of report)
 - [x] Add multi-country service down ?
+- [ ] Sort services by category (stream, bank, hoster...)
 
 ## Version
 [![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/tags) [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/releases)
