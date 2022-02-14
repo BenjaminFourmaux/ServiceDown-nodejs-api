@@ -1049,7 +1049,7 @@
 			"canonicName": "WORLDOFWARCRAFT",
 			"serviceInfo": {
 				"name": "World Of Warcraft",
-				"slug": "/statut/world-of-warcraft,
+				"slug": "/statut/world-of-warcraft",
 				"country": ["FR"]
 			} 
 		},
@@ -1057,7 +1057,7 @@
 			"canonicName": "XBOXLIVE",
 			"serviceInfo": {
 				"name": "XBOX Live",
-				"slug": "/statut/xbox-live,
+				"slug": "/statut/xbox-live",
 				"country": ["FR"]
 			} 
 		},
@@ -1065,7 +1065,7 @@
 			"canonicName": "XMTRADING",
 			"serviceInfo": {
 				"name": "XM Trading",
-				"slug": "/statut/xm-trading,
+				"slug": "/statut/xm-trading",
 				"country": ["FR"]
 			} 
 		},
@@ -1073,7 +1073,7 @@
 			"canonicName": "XTBTRADING",
 			"serviceInfo": {
 				"name": "XTB Trading",
-				"slug": "/statut/xtb-trading,
+				"slug": "/statut/xtb-trading",
 				"country": ["FR"]
 			} 
 		},
@@ -1081,7 +1081,7 @@
 			"canonicName": "YAHOOMAIL",
 			"serviceInfo": {
 				"name": "Yahoo Mail",
-				"slug": "/statut/yahoo-mail,
+				"slug": "/statut/yahoo-mail",
 				"country": ["FR"]
 			} 
 		},
@@ -1089,7 +1089,7 @@
 			"canonicName": "YOUTUBE",
 			"serviceInfo": {
 				"name": "YouTube",
-				"slug": "/statut/youtube,
+				"slug": "/statut/youtube",
 				"country": ["FR"]
 			} 
 		},
@@ -1097,7 +1097,7 @@
 			"canonicName": "ZOOM",
 			"serviceInfo": {
 				"name": "Zoom",
-				"slug": "/statut/zoom,
+				"slug": "/statut/zoom",
 				"country": ["FR"]
 			} 
 		}
