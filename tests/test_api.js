@@ -3,7 +3,8 @@
 // import
 const ServiceDown_api = require('../lib/ServiceDown_api.js');
 const Api = new ServiceDown_api();
-
+const jsonFile = require('./test.json');
+const configFile = require('../lib/config.json');
 
 (async () => {
 	/** Ping **/
@@ -16,7 +17,16 @@ const Api = new ServiceDown_api();
 	// Api.country = "fr";
 	
 	/** getServiceStatus **/
-	result = await Api.getServiceStatus("free");
+	//result = await Api.getServiceStatus("free");
+	//console.log(result);
+	
+	/** test json file **/
+	//console.log(jsonFile.country);
+	
+	/** refont config file **/
+	result = await Api.getServiceStatus("google", "fr");
 	console.log(result);
+	//console.log(configFile.config.country.length);
+	
 	
 })()

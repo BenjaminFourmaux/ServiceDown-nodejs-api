@@ -1,0 +1,1105 @@
+{
+	"config": {
+		"api": {
+			"name": "Is The Service down ?",
+			"domain": "istheservicedown",
+			"protocol": "https://"
+		},
+		"country": [
+			["DEFAULT", ".com"],
+			["FR", ".fr"],
+			["US", ".com"],
+			["EN", ".uk"]
+		]
+	},
+	"servicesList": [
+		{
+			"canonicName": "2K", 
+			"serviceInfo": {
+				"name": "2k",
+				"slug": "/statut/2k",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "AMAZON", 
+			"serviceInfo": {
+				"name": "Amazon",
+				"slug": "/statut/amazon",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "AMAZONPRIME", 
+			"serviceInfo": {
+				"name": "Amazon Prime",
+				"slug": "/statut/amazon-prime-instant-video",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "AWS", 
+			"serviceInfo": {
+				"name": "Amazon Web Services",
+				"slug": "/statut/amazon-web-services-aws",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ANTHEM", 
+			"serviceInfo": {
+				"name": "Anthem",
+				"slug": "/statut/anthem-game",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "APEXLEGENDS", 
+			"serviceInfo": {
+				"name": "Apex Legends",
+				"slug": "/statut/apex-legends",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "APPLESTORE", 
+			"serviceInfo": {
+				"name": "Apple Store",
+				"slug": "/statut/apple-store",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ARLO", 
+			"serviceInfo": {
+				"name": "Arlo",
+				"slug": "/statut/arlo",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "BATTLEFIELD", 
+			"serviceInfo": {
+				"name": "Battlefield 2042",
+				"slug": "/statut/battlefield-one",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "BATTLENET", 
+			"serviceInfo": {
+				"name": "Battle Net",
+				"slug": "/statut/battlenet-blizzard-entertainment",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "BINANCE", 
+			"serviceInfo": {
+				"name": "Binance",
+				"slug": "/statut/binance",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "BITFINEX", 
+			"serviceInfo": {
+				"name": "Bitfinex",
+				"slug": "/statut/bitfinex",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "BITSTAMP", 
+			"serviceInfo": {
+				"name": "Bitstamp",
+				"slug": "/statut/bitstamp",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "BOUYGUES", 
+			"serviceInfo": {
+				"name": "Bouygues Telecom",
+				"slug": "/statut/bouygues-telecom",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CALLOFDUTY", 
+			"serviceInfo": {
+				"name": "Call Of Duty",
+				"slug": "/statut/call-of-duty",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CANALSAT", 
+			"serviceInfo": {
+				"name": "Canalsat",
+				"slug": "/statut/canalsat",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CANDYCRUSH", 
+			"serviceInfo": {
+				"name": "Candy Crush Saga",
+				"slug": "/statut/candy-crush-saga",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CLOUNDFLARE", 
+			"serviceInfo": {
+				"name": "CloudfLare",
+				"slug": "/statut/cloundflare",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CMCMARKETS", 
+			"serviceInfo": {
+				"name": "CMC Markets",
+				"slug": "/statut/cmc-markets",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "COINBASE", 
+			"serviceInfo": {
+				"name": "Coinbase",
+				"slug": "/statut/coinbase",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CSGO", 
+			"serviceInfo": {
+				"name": "Counter-Strike: Global Offensive",
+				"slug": "/statut/counter-strike-csgo",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CRUNCHYROLL", 
+			"serviceInfo": {
+				"name": "Crunchyroll",
+				"slug": "/statut/crunchyroll",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CRYPTOPIA", 
+			"serviceInfo": {
+				"name": "Cryptopia",
+				"slug": "/statut/cryptopia",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "CYBERPUNK2077", 
+			"serviceInfo": {
+				"name": "Cyberpunk 2077",
+				"slug": "/statut/cyberpunk-2077",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "DESTINY", 
+			"serviceInfo": {
+				"name": "Destiny",
+				"slug": "/statut/destiny",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "DHL", 
+			"serviceInfo": {
+				"name": "DHL",
+				"slug": "/statut/dhl-deutschland",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "DIABLO", 
+			"serviceInfo": {
+				"name": "Diablo",
+				"slug": "/statut/diablo",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "DISCORD", 
+			"serviceInfo": {
+				"name": "Discord",
+				"slug": "/statut/discord",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "DISNEYPLUS", 
+			"serviceInfo": {
+				"name": "Disney Plus",
+				"slug": "/statut/disney-plus",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "DOTA2", 
+			"serviceInfo": {
+				"name": "Dota 2",
+				"slug": "/statut/dota2",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "DROPBOX", 
+			"serviceInfo": {
+				"name": "Dropbox",
+				"slug": "/statut/dropbox",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "EA", 
+			"serviceInfo": {
+				"name": "Electronic Arts",
+				"slug": "/statut/ea-games-electronic-arts",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "EBAY", 
+			"serviceInfo": {
+				"name": "Ebay",
+				"slug": "/statut/ebay",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ETORO", 
+			"serviceInfo": {
+				"name": "Etoro",
+				"slug": "/statut/etoro",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ETRADE", 
+			"serviceInfo": {
+				"name": "Etrade",
+				"slug": "/statut/etrade",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FACEBOOK", 
+			"serviceInfo": {
+				"name": "Facebook",
+				"slug": "/statut/facebook",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "MESSENGER", 
+			"serviceInfo": {
+				"name": "Facebook Messenger",
+				"slug": "/statut/facebook-messenger",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FALLGUYS", 
+			"serviceInfo": {
+				"name": "Fall Guys",
+				"slug": "/statut/fallguys",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FALLOUT76", 
+			"serviceInfo": {
+				"name": "Fallout 76",
+				"slug": "/statut/fallout-76",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FIFA", 
+			"serviceInfo": {
+				"name": "FIFA",
+				"slug": "/statut/fifa-ea-sports",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FIBIT", 
+			"serviceInfo": {
+				"name": "Fibit",
+				"slug": "/statut/fibit",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FORHONOR", 
+			"serviceInfo": {
+				"name": "For Honor",
+				"slug": "/statut/for-honor",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FOREXDOTCOM", 
+			"serviceInfo": {
+				"name": "Forex.com",
+				"slug": "/statut/forex-dot-com",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FORNITE", 
+			"serviceInfo": {
+				"name": "Fornite",
+				"slug": "/statut/fornite",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FREE", 
+			"serviceInfo": {
+				"name": "Free",
+				"slug": "/statut/free",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "FRIDAYTHE13TH", 
+			"serviceInfo": {
+				"name": "Friday The 13th: The Game",
+				"slug": "/statut/friday-the-13th-game",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GARMIN", 
+			"serviceInfo": {
+				"name": "Garmin Connect",
+				"slug": "/statut/garmin-connect",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GDAX", 
+			"serviceInfo": {
+				"name": "GDAX",
+				"slug": "/statut/gdax",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GEARSOFXAR", 
+			"serviceInfo": {
+				"name": "Gears of War",
+				"slug": "/statut/gears-of-war",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GITHUB", 
+			"serviceInfo": {
+				"name": "GitHub",
+				"slug": "/statut/github",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GMAIL", 
+			"serviceInfo": {
+				"name": "Gmail",
+				"slug": "/statut/gmail",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GODADDY", 
+			"serviceInfo": {
+				"name": "GoDaddy",
+				"slug": "/statut/godaddy",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GOOGLECLOUD", 
+			"serviceInfo": {
+				"name": "Google Cloud Platform",
+				"slug": "/statut/google-cloud",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GOOGLENEST", 
+			"serviceInfo": {
+				"name": "Google Nest",
+				"slug": "/statut/google-nest",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GTAV", 
+			"serviceInfo": {
+				"name": "Grand theft auto V",
+				"slug": "/statut/gta-v-grand-theft-auto-v",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "H1Z1",
+			"serviceInfo": {
+				"name": "H1Z1",
+				"slug": "/statut/h1z1",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "HALO",
+			"serviceInfo": {
+				"name": "Halo",
+				"slug": "/statut/halo-game",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "HBOMAX",
+			"serviceInfo": {
+				"name": "HBO Max",
+				"slug": "/statut/hbo-max",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "HOSTGATOR",
+			"serviceInfo": {
+				"name": "HostGator",
+				"slug": "/statut/hostgator",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "IGBROKER",
+			"serviceInfo": {
+				"name": "IG",
+				"slug": "/statut/ig-broker",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "INSTAGRAM",
+			"serviceInfo": {
+				"name": "Instagram",
+				"slug": "/statut/instagram",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "INTERACTIVEBROKERS",
+			"serviceInfo": {
+				"name": "Interactive Brokers",
+				"slug": "/statut/interactive-brokers",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ITUNES",
+			"serviceInfo": {
+				"name": "iTunes",
+				"slug": "/statut/itunes",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "KRAKEN",
+			"serviceInfo": {
+				"name": "Kraken",
+				"slug": "/statut/kraken",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "LEAGUEOFLEGENDS",
+			"serviceInfo": {
+				"name": "League Of Legends",
+				"slug": "/statut/league-of-legends",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "LCG",
+			"serviceInfo": {
+				"name": "London Capital Group",
+				"slug": "/statut/london-capital-group-lgc",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "MASEFFECT",
+			"serviceInfo": {
+				"name": "Mass Effect Andromeda",
+				"slug": "/statut/mass-effect-andromeda",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "AZURE",
+			"serviceInfo": {
+				"name": "Microsoft Azure",
+				"slug": "/statut/microsoft-azure",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "TEAMS",
+			"serviceInfo": {
+				"name": "Microsoft Teams",
+				"slug": "/statut/microsoft-teams",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "MINECRAFT",
+			"serviceInfo": {
+				"name": "Minecraft",
+				"slug": "/statut/minecraft",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "MONSTERHUNTER",
+			"serviceInfo": {
+				"name": "Monster Hunter",
+				"slug": "/statut/monster-hunter",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "NAMECHEAP",
+			"serviceInfo": {
+				"name": "Namecheap",
+				"slug": "/statut/namecheap",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "NETFLIX",
+			"serviceInfo": {
+				"name": "Netflix",
+				"slug": "/statut/netflix",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "NEWWORLD",
+			"serviceInfo": {
+				"name": "New World",
+				"slug": "/statut/new-world-game",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "NINTENDO",
+			"serviceInfo": {
+				"name": "Nintendo",
+				"slug": "/statut/nintendo-switch",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "NUMERICABLE",
+			"serviceInfo": {
+				"name": "Numericable",
+				"slug": "/statut/numericable-france",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "OANDA",
+			"serviceInfo": {
+				"name": "OANDA",
+				"slug": "/statut/oanda",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "OFFICE365",
+			"serviceInfo": {
+				"name": "Office 365",
+				"slug": "/statut/office-365",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ORANGE",
+			"serviceInfo": {
+				"name": "Orange",
+				"slug": "/statut/orange-france",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ORIGINEA",
+			"serviceInfo": {
+				"name": "Origin EA",
+				"slug": "/statut/origin-ea",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "OUTLOOK",
+			"serviceInfo": {
+				"name": "Outlook",
+				"slug": "/statut/outlook-hotmail",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "OVERWATCHGAMES",
+			"serviceInfo": {
+				"name": "Overwatch",
+				"slug": "/statut/overwatch-game",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PALADINS",
+			"serviceInfo": {
+				"name": "Paladins",
+				"slug": "/statut/paladins",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PARAMOUNTPLUS",
+			"serviceInfo": {
+				"name": "Paramount Plus",
+				"slug": "/statut/paramount-plus",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PATHOFEXILE",
+			"serviceInfo": {
+				"name": "Path Of Exile",
+				"slug": "/statut/path-of-exile",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PAYPAL",
+			"serviceInfo": {
+				"name": "PayPal",
+				"slug": "/statut/paypal",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PEACKOCKTV",
+			"serviceInfo": {
+				"name": "Peackock TV",
+				"slug": "/statut/peackock-tv",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PEPPERSTONE",
+			"serviceInfo": {
+				"name": "Pepperstone",
+				"slug": "/statut/pepperstone",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PUBG",
+			"serviceInfo": {
+				"name": "Player Unknowns Battleground",
+				"slug": "/statut/playerunknowns-battlegrounds",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PSN",
+			"serviceInfo": {
+				"name": "PlayStation Network",
+				"slug": "/statut/playstation-network-psn",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "PLUS500",
+			"serviceInfo": {
+				"name": "Plus500",
+				"slug": "/statut/plus500",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "POKEMONGO",
+			"serviceInfo": {
+				"name": "Pokémon GO",
+				"slug": "/statut/pokemon-go",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "REDDIT",
+			"serviceInfo": {
+				"name": "Reddit",
+				"slug": "/statut/reddit",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "RING",
+			"serviceInfo": {
+				"name": "Ring",
+				"slug": "/statut/ring",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ROBINHOOD",
+			"serviceInfo": {
+				"name": "RobinHood",
+				"slug": "/statut/robinhood",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ROBLOX",
+			"serviceInfo": {
+				"name": "Roblox",
+				"slug": "/statut/roblox",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ROCKETLEAGUE",
+			"serviceInfo": {
+				"name": "Rocket League",
+				"slug": "/statut/rocket-league",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ROKU",
+			"serviceInfo": {
+				"name": "Roku",
+				"slug": "/statut/roku",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "RUNESCAPE",
+			"serviceInfo": {
+				"name": "Runescape",
+				"slug": "/statut/runescape",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SEAOFTHIEVES",
+			"serviceInfo": {
+				"name": "Sea Of Thieves",
+				"slug": "/statut/sea-of-thieves-game",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SFR",
+			"serviceInfo": {
+				"name": "SFR",
+				"slug": "/statut/sfr",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SHAZAM",
+			"serviceInfo": {
+				"name": "Shazam",
+				"slug": "/statut/shazam",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SIGNALMESSENGER",
+			"serviceInfo": {
+				"name": "Signal Messenger",
+				"slug": "/statut/signal-messenger",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SKYPE",
+			"serviceInfo": {
+				"name": "Skype",
+				"slug": "/statut/skype",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SLACK",
+			"serviceInfo": {
+				"name": "Slack",
+				"slug": "/statut/slack",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SMITE",
+			"serviceInfo": {
+				"name": "Smite",
+				"slug": "/statut/smite",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SNAPCHAT",
+			"serviceInfo": {
+				"name": "Snapchat",
+				"slug": "/statut/snapchat",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SPOTIFY",
+			"serviceInfo": {
+				"name": "Spotify",
+				"slug": "/statut/spotify",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "STARWARSBATTLEFRONT",
+			"serviceInfo": {
+				"name": "Star Wars Battlefront",
+				"slug": "/statut/star-wars-battlefront",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "STARLINK",
+			"serviceInfo": {
+				"name": "Starlink",
+				"slug": "/statut/starlin"k,
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "STEAM",
+			"serviceInfo": {
+				"name": "Steam",
+				"slug": "/statut/steam",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "SUPERMARIORUN",
+			"serviceInfo": {
+				"name": "Super Mario Run",
+				"slug": "/statut/super-mario-run",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "TDAMERITRADE",
+			"serviceInfo": {
+				"name": "TD Ameritrade",
+				"slug": "/statut/td-ameritrade",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "TELEGRAM",
+			"serviceInfo": {
+				"name": "Telegram",
+				"slug": "/statut/telegram",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "THEELDERSCROLLSONLINE",
+			"serviceInfo": {
+				"name": "The Elder Scrolls Online",
+				"slug": "/statut/the-elder-scrolls-online",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "TIKTOK",
+			"serviceInfo": {
+				"name": "TikTok",
+				"slug": "/statut/tiktok",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "TINDER",
+			"serviceInfo": {
+				"name": "Tinder",
+				"slug": "/statut/tinder",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "GHOSTRECON",
+			"serviceInfo": {
+				"name": "Tom Clancy: Ghost Recon",
+				"slug": "/statut/tom-clancy-ghost-recon",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "RAINBOWSIXSIEGE",
+			"serviceInfo": {
+				"name": "Tom Clancy: Rainbow Six Siege",
+				"slug": "/statut/tom-clancy-rainbow-six-siege",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "THEDIVISION",
+			"serviceInfo": {
+				"name": "Tom Clancy: The Division",
+				"slug": "/statut/tom-clancys-the-division",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "TRADING212",
+			"serviceInfo": {
+				"name": "Trading 212",
+				"slug": "/statut/trading-212",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "TWITCH",
+			"serviceInfo": {
+				"name": "Twitch",
+				"slug": "/statut/twitch",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "TWITTER",
+			"serviceInfo": {
+				"name": "Twitter",
+				"slug": "/statut/twitter",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "UPLAY",
+			"serviceInfo": {
+				"name": "Uplay",
+				"slug": "/statut/uplay-ubisoft",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "VALORANT",
+			"serviceInfo": {
+				"name": "Valorant",
+				"slug": "/statut/valorant",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "VIBER",
+			"serviceInfo": {
+				"name": "Viber",
+				"slug": "/statut/viber",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "WARFRAME",
+			"serviceInfo": {
+				"name": "Warframe",
+				"slug": "/statut/warframe",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "WAZE",
+			"serviceInfo": {
+				"name": "Waze",
+				"slug": "/statut/waze",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "WHATSAPP",
+			"serviceInfo": {
+				"name": "What's App",
+				"slug": "/statut/whatsapp-messenger",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "WORLDOFWARCRAFT",
+			"serviceInfo": {
+				"name": "World Of Warcraft",
+				"slug": "/statut/world-of-warcraft,
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "XBOXLIVE",
+			"serviceInfo": {
+				"name": "XBOX Live",
+				"slug": "/statut/xbox-live,
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "XMTRADING",
+			"serviceInfo": {
+				"name": "XM Trading",
+				"slug": "/statut/xm-trading,
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "XTBTRADING",
+			"serviceInfo": {
+				"name": "XTB Trading",
+				"slug": "/statut/xtb-trading,
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "YAHOOMAIL",
+			"serviceInfo": {
+				"name": "Yahoo Mail",
+				"slug": "/statut/yahoo-mail,
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "YOUTUBE",
+			"serviceInfo": {
+				"name": "YouTube",
+				"slug": "/statut/youtube,
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ZOOM",
+			"serviceInfo": {
+				"name": "Zoom",
+				"slug": "/statut/zoom,
+				"country": ["FR"]
+			} 
+		}
+	]
+}T
