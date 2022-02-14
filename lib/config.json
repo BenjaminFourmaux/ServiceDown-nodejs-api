@@ -18,7 +18,23 @@
 			"serviceInfo": {
 				"name": "2k",
 				"slug": "/statut/2k",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "ALASKACOMMUNICATION", 
+			"serviceInfo": {
+				"name": "Alaska Communication",
+				"slug": "/statut/alaska-communication",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "ALLSTATE", 
+			"serviceInfo": {
+				"name": "Allstate",
+				"slug": "/statut/allstate",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -26,7 +42,7 @@
 			"serviceInfo": {
 				"name": "Amazon",
 				"slug": "/statut/amazon",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -34,7 +50,7 @@
 			"serviceInfo": {
 				"name": "Amazon Prime",
 				"slug": "/statut/amazon-prime-instant-video",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -42,7 +58,23 @@
 			"serviceInfo": {
 				"name": "Amazon Web Services",
 				"slug": "/statut/amazon-web-services-aws",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "AEPOHIO", 
+			"serviceInfo": {
+				"name": "American Electric Power - Ohio",
+				"slug": "/statut/american-electric-power-ohio",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "AEPTEXAS", 
+			"serviceInfo": {
+				"name": "American Electric Power - Texas",
+				"slug": "/statut/american-electric-power-texas",
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -50,7 +82,15 @@
 			"serviceInfo": {
 				"name": "Anthem",
 				"slug": "/statut/anthem-game",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "AOL", 
+			"serviceInfo": {
+				"name": "AOL",
+				"slug": "/statut/aol-america-online",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -58,7 +98,15 @@
 			"serviceInfo": {
 				"name": "Apex Legends",
 				"slug": "/statut/apex-legends",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "APPALACHIANPOWER", 
+			"serviceInfo": {
+				"name": "Appalachian Power",
+				"slug": "/statut/appalachian-power",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -66,7 +114,7 @@
 			"serviceInfo": {
 				"name": "Apple Store",
 				"slug": "/statut/apple-store",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -74,7 +122,39 @@
 			"serviceInfo": {
 				"name": "Arlo",
 				"slug": "/statut/arlo",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "ARVIG", 
+			"serviceInfo": {
+				"name": "Arvig",
+				"slug": "/statut/arvig",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "ATLANTICBROADBAND", 
+			"serviceInfo": {
+				"name": "Atlantic Broadband",
+				"slug": "/statut/atlantic-broadband",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "ATT", 
+			"serviceInfo": {
+				"name": "AT&T",
+				"slug": "/statut/att",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "BANKOFAMERICA", 
+			"serviceInfo": {
+				"name": "Bank Of America",
+				"slug": "/statut/bank-of-america",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -82,7 +162,7 @@
 			"serviceInfo": {
 				"name": "Battlefield 2042",
 				"slug": "/statut/battlefield-one",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -90,7 +170,7 @@
 			"serviceInfo": {
 				"name": "Battle Net",
 				"slug": "/statut/battlenet-blizzard-entertainment",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -98,7 +178,7 @@
 			"serviceInfo": {
 				"name": "Binance",
 				"slug": "/statut/binance",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -106,7 +186,7 @@
 			"serviceInfo": {
 				"name": "Bitfinex",
 				"slug": "/statut/bitfinex",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -114,7 +194,23 @@
 			"serviceInfo": {
 				"name": "Bitstamp",
 				"slug": "/statut/bitstamp",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "BOINGO", 
+			"serviceInfo": {
+				"name": "Boingo",
+				"slug": "/statut/boingo",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "BOOSTMOBILE", 
+			"serviceInfo": {
+				"name": "Boost Mobile",
+				"slug": "/statut/boost-mobile",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -126,11 +222,35 @@
 			} 
 		},
 		{
+			"canonicName": "BUCKEYEBROADBAND", 
+			"serviceInfo": {
+				"name": "Buckeye Broadband",
+				"slug": "/statut/buckeye-broadband",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CSPIRE", 
+			"serviceInfo": {
+				"name": "C Spire Wireless",
+				"slug": "/statut/c-spire-wireless",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CABLEONE", 
+			"serviceInfo": {
+				"name": "Cable One",
+				"slug": "/statut/cable-one",
+				"country": ["US"]
+			} 
+		},
+		{
 			"canonicName": "CALLOFDUTY", 
 			"serviceInfo": {
 				"name": "Call Of Duty",
 				"slug": "/statut/call-of-duty",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -138,7 +258,7 @@
 			"serviceInfo": {
 				"name": "Canalsat",
 				"slug": "/statut/canalsat",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -150,11 +270,75 @@
 			} 
 		},
 		{
+			"canonicName": "CAPITALONE",
+			"serviceInfo": {
+				"name": "Capital One",
+				"slug": "/statut/capital-one",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CASHAPP",
+			"serviceInfo": {
+				"name": "CashApp",
+				"slug": "/statut/cashapp",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CENTERPOINTENERGY",
+			"serviceInfo": {
+				"name": "CenterPoint Energy",
+				"slug": "/statut/centerpoint-energy",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CENTURYLINK",
+			"serviceInfo": {
+				"name": "CenturyLink",
+				"slug": "/statut/centurylink",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CHARTERCOMMUNICATIONS",
+			"serviceInfo": {
+				"name": "Charter Communications",
+				"slug": "/statut/charter-communications",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CHASEBANK",
+			"serviceInfo": {
+				"name": "Chase Bank",
+				"slug": "/statut/chase-bank",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CINCINNATIBELL",
+			"serviceInfo": {
+				"name": "Cincinnati Bell",
+				"slug": "/statut/cincinnati-bell",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CITIBANK",
+			"serviceInfo": {
+				"name": "Citibank",
+				"slug": "/statut/citigroup-bank",
+				"country": ["US"]
+			}
+		},
+		{
 			"canonicName": "CLOUNDFLARE", 
 			"serviceInfo": {
 				"name": "CloudfLare",
 				"slug": "/statut/cloundflare",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -162,7 +346,7 @@
 			"serviceInfo": {
 				"name": "CMC Markets",
 				"slug": "/statut/cmc-markets",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -170,7 +354,7 @@
 			"serviceInfo": {
 				"name": "Coinbase",
 				"slug": "/statut/coinbase",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -642,6 +826,14 @@
 			"serviceInfo": {
 				"name": "Orange",
 				"slug": "/statut/orange-france",
+				"country": ["FR"]
+			} 
+		},
+		{
+			"canonicName": "ORANGEBANK",
+			"serviceInfo": {
+				"name": "Orange Bank the besti <3",
+				"slug": "/statut/orange-bank",
 				"country": ["FR"]
 			} 
 		},
