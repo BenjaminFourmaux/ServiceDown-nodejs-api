@@ -889,7 +889,7 @@
 			"canonicName": "STARLINK",
 			"serviceInfo": {
 				"name": "Starlink",
-				"slug": "/statut/starlin"k,
+				"slug": "/statut/starlink",
 				"country": ["FR"]
 			} 
 		},
@@ -1102,4 +1102,4 @@
 			} 
 		}
 	]
-}T
+}
