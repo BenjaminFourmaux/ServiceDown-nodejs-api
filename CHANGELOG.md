@@ -1,6 +1,22 @@
 # Changelog
 [![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown_api?cache=600)]() [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api?cache=600)]() [![](https://badgen.net/github/branches/BenjaminFourmaux/ServiceDown_api)]() [![](https://badgen.net/github/releases/BenjaminFourmaux/ServiceDown_api)]() [![](https://badgen.net/github/tags/BenjaminFourmaux/ServiceDown_api)]()
 
+## v1.5.0
+### Adding
+ - Add new property in the Responce: ``status_report_stats`` for get some metrics about the service
+ - Add "FR" servicesList
+ - Add new function ``getDoughtnutList()`` to find in DOM element doughtnutlist and get the new metrics data (most repporting)
+ - Add new function ``getDomainExtension()`` to get domaine extension by the canonic name from config
+ - Add function ``getServiceInfoByCN()`` to get service by his canonic name
+
+### Modified 
+ - Structure of JSON Config file (add api domaine, protocol, name... and add franch services in list)
+ - Modified : ``getServiceStatus()``, ``getServiceList()``,  ``getUrl()`` to corresponding with the new config file
+ - Code refactor
+
+### Deleting
+ - Remove functions: ``getServiceCN()``, ``getServiceName()`` and ``getServicePath()`` => useless
+
 ## V1.2.0
 ### Adding
  - Add new function ``getStatusCause()`` to get the cause of the status
