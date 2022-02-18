@@ -6,6 +6,8 @@ Another one JS lib, to know if a service is down.
 I want to make services status information **open data**.
 With a whole bunch of metrics like the number of reports, average report, in which region ...
 
+More than 230 services is available in 2 coontry (FR & US).
+
 ### Disclaimer
 This api is based on the website [Is The Service Down ?](https://istheservicedown.com/), is a bug reporting website, considered the data unreliable at 100%
 And please not abused to spam ping request the website.
