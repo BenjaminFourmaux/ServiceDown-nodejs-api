@@ -18,7 +18,23 @@
 			"serviceInfo": {
 				"name": "2k",
 				"slug": "/statut/2k",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "ALASKACOMMUNICATION", 
+			"serviceInfo": {
+				"name": "Alaska Communication",
+				"slug": "/statut/alaska-communication",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "ALLSTATE", 
+			"serviceInfo": {
+				"name": "Allstate",
+				"slug": "/statut/allstate",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -26,7 +42,7 @@
 			"serviceInfo": {
 				"name": "Amazon",
 				"slug": "/statut/amazon",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -34,7 +50,7 @@
 			"serviceInfo": {
 				"name": "Amazon Prime",
 				"slug": "/statut/amazon-prime-instant-video",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -42,7 +58,23 @@
 			"serviceInfo": {
 				"name": "Amazon Web Services",
 				"slug": "/statut/amazon-web-services-aws",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "AEPOHIO", 
+			"serviceInfo": {
+				"name": "American Electric Power - Ohio",
+				"slug": "/statut/american-electric-power-ohio",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "AEPTEXAS", 
+			"serviceInfo": {
+				"name": "American Electric Power - Texas",
+				"slug": "/statut/american-electric-power-texas",
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -50,7 +82,15 @@
 			"serviceInfo": {
 				"name": "Anthem",
 				"slug": "/statut/anthem-game",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "AOL", 
+			"serviceInfo": {
+				"name": "AOL",
+				"slug": "/statut/aol-america-online",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -58,7 +98,15 @@
 			"serviceInfo": {
 				"name": "Apex Legends",
 				"slug": "/statut/apex-legends",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "APPALACHIANPOWER", 
+			"serviceInfo": {
+				"name": "Appalachian Power",
+				"slug": "/statut/appalachian-power",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -66,7 +114,7 @@
 			"serviceInfo": {
 				"name": "Apple Store",
 				"slug": "/statut/apple-store",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -74,7 +122,39 @@
 			"serviceInfo": {
 				"name": "Arlo",
 				"slug": "/statut/arlo",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "ARVIG", 
+			"serviceInfo": {
+				"name": "Arvig",
+				"slug": "/statut/arvig",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "ATLANTICBROADBAND", 
+			"serviceInfo": {
+				"name": "Atlantic Broadband",
+				"slug": "/statut/atlantic-broadband",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "ATT", 
+			"serviceInfo": {
+				"name": "AT&T",
+				"slug": "/statut/att",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "BANKOFAMERICA", 
+			"serviceInfo": {
+				"name": "Bank Of America",
+				"slug": "/statut/bank-of-america",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -82,7 +162,7 @@
 			"serviceInfo": {
 				"name": "Battlefield 2042",
 				"slug": "/statut/battlefield-one",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -90,7 +170,7 @@
 			"serviceInfo": {
 				"name": "Battle Net",
 				"slug": "/statut/battlenet-blizzard-entertainment",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -98,7 +178,7 @@
 			"serviceInfo": {
 				"name": "Binance",
 				"slug": "/statut/binance",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -106,7 +186,7 @@
 			"serviceInfo": {
 				"name": "Bitfinex",
 				"slug": "/statut/bitfinex",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -114,7 +194,23 @@
 			"serviceInfo": {
 				"name": "Bitstamp",
 				"slug": "/statut/bitstamp",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "BOINGO", 
+			"serviceInfo": {
+				"name": "Boingo",
+				"slug": "/statut/boingo",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "BOOSTMOBILE", 
+			"serviceInfo": {
+				"name": "Boost Mobile",
+				"slug": "/statut/boost-mobile",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -126,11 +222,35 @@
 			} 
 		},
 		{
+			"canonicName": "BUCKEYEBROADBAND", 
+			"serviceInfo": {
+				"name": "Buckeye Broadband",
+				"slug": "/statut/buckeye-broadband",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CSPIRE", 
+			"serviceInfo": {
+				"name": "C Spire Wireless",
+				"slug": "/statut/c-spire-wireless",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CABLEONE", 
+			"serviceInfo": {
+				"name": "Cable One",
+				"slug": "/statut/cable-one",
+				"country": ["US"]
+			} 
+		},
+		{
 			"canonicName": "CALLOFDUTY", 
 			"serviceInfo": {
 				"name": "Call Of Duty",
 				"slug": "/statut/call-of-duty",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -138,7 +258,7 @@
 			"serviceInfo": {
 				"name": "Canalsat",
 				"slug": "/statut/canalsat",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -150,11 +270,75 @@
 			} 
 		},
 		{
+			"canonicName": "CAPITALONE",
+			"serviceInfo": {
+				"name": "Capital One",
+				"slug": "/statut/capital-one",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CASHAPP",
+			"serviceInfo": {
+				"name": "CashApp",
+				"slug": "/statut/cashapp",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CENTERPOINTENERGY",
+			"serviceInfo": {
+				"name": "CenterPoint Energy",
+				"slug": "/statut/centerpoint-energy",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CENTURYLINK",
+			"serviceInfo": {
+				"name": "CenturyLink",
+				"slug": "/statut/centurylink",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CHARTERCOMMUNICATIONS",
+			"serviceInfo": {
+				"name": "Charter Communications",
+				"slug": "/statut/charter-communications",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CHASEBANK",
+			"serviceInfo": {
+				"name": "Chase Bank",
+				"slug": "/statut/chase-bank",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CINCINNATIBELL",
+			"serviceInfo": {
+				"name": "Cincinnati Bell",
+				"slug": "/statut/cincinnati-bell",
+				"country": ["US"]
+			}
+		},
+		{
+			"canonicName": "CITIBANK",
+			"serviceInfo": {
+				"name": "Citibank",
+				"slug": "/statut/citigroup-bank",
+				"country": ["US"]
+			}
+		},
+		{
 			"canonicName": "CLOUNDFLARE", 
 			"serviceInfo": {
 				"name": "CloudfLare",
 				"slug": "/statut/cloundflare",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -162,7 +346,7 @@
 			"serviceInfo": {
 				"name": "CMC Markets",
 				"slug": "/statut/cmc-markets",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -170,7 +354,39 @@
 			"serviceInfo": {
 				"name": "Coinbase",
 				"slug": "/statut/coinbase",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "COMCASTXFINITY", 
+			"serviceInfo": {
+				"name": "Comcast Xfinity",
+				"slug": "/statut/comcast-xfinity",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CONSOLIDATEDCOMMUNICATIONS", 
+			"serviceInfo": {
+				"name": "Consolidated Communications",
+				"slug": "/statut/consolidated-communications",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CONSOLIDATEDEDISON", 
+			"serviceInfo": {
+				"name": "Consolidated Edison",
+				"slug": "/statut/consolidated-edison",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CONSUMERCELLULAR", 
+			"serviceInfo": {
+				"name": "Consumer Cellular",
+				"slug": "/statut/consumer-cellular",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -178,7 +394,31 @@
 			"serviceInfo": {
 				"name": "Counter-Strike: Global Offensive",
 				"slug": "/statut/counter-strike-csgo",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "COXCOMMUNICATIONS", 
+			"serviceInfo": {
+				"name": "Cok Communications",
+				"slug": "/statut/cox-communications",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CRAIGLIST", 
+			"serviceInfo": {
+				"name": "Craiglist",
+				"slug": "/statut/craiglist",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "CRICKETWIRLESS", 
+			"serviceInfo": {
+				"name": "Cricket Wirless",
+				"slug": "/statut/cricket-wireless",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -186,7 +426,7 @@
 			"serviceInfo": {
 				"name": "Crunchyroll",
 				"slug": "/statut/crunchyroll",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -194,7 +434,7 @@
 			"serviceInfo": {
 				"name": "Cryptopia",
 				"slug": "/statut/cryptopia",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -202,7 +442,7 @@
 			"serviceInfo": {
 				"name": "Cyberpunk 2077",
 				"slug": "/statut/cyberpunk-2077",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -210,7 +450,7 @@
 			"serviceInfo": {
 				"name": "Destiny",
 				"slug": "/statut/destiny",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -226,7 +466,15 @@
 			"serviceInfo": {
 				"name": "Diablo",
 				"slug": "/statut/diablo",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "DIRECTV", 
+			"serviceInfo": {
+				"name": "Directv",
+				"slug": "/statut/directv",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -234,7 +482,15 @@
 			"serviceInfo": {
 				"name": "Discord",
 				"slug": "/statut/discord",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "DISHNETWORK", 
+			"serviceInfo": {
+				"name": "Dish Network",
+				"slug": "/statut/dish-network",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -242,7 +498,7 @@
 			"serviceInfo": {
 				"name": "Disney Plus",
 				"slug": "/statut/disney-plus",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -250,7 +506,7 @@
 			"serviceInfo": {
 				"name": "Dota 2",
 				"slug": "/statut/dota2",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -258,7 +514,15 @@
 			"serviceInfo": {
 				"name": "Dropbox",
 				"slug": "/statut/dropbox",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "DUKEENERGY", 
+			"serviceInfo": {
+				"name": "Duke Energy",
+				"slug": "/statut/duke-energy",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -266,7 +530,15 @@
 			"serviceInfo": {
 				"name": "Electronic Arts",
 				"slug": "/statut/ea-games-electronic-arts",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "EARTHLINK", 
+			"serviceInfo": {
+				"name": "Earthlink",
+				"slug": "/statut/earthlinl",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -274,7 +546,15 @@
 			"serviceInfo": {
 				"name": "Ebay",
 				"slug": "/statut/ebay",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "ENTERGY", 
+			"serviceInfo": {
+				"name": "Entergy",
+				"slug": "/statut/entergy",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -282,7 +562,7 @@
 			"serviceInfo": {
 				"name": "Etoro",
 				"slug": "/statut/etoro",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -290,7 +570,15 @@
 			"serviceInfo": {
 				"name": "Etrade",
 				"slug": "/statut/etrade",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "EVERSOURCEENERGY", 
+			"serviceInfo": {
+				"name": "Eversource Energy",
+				"slug": "/statut/eversource-energy",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -298,7 +586,15 @@
 			"serviceInfo": {
 				"name": "Facebook",
 				"slug": "/statut/facebook",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "FACEBOOKGAMING", 
+			"serviceInfo": {
+				"name": "Facebook Gaming",
+				"slug": "/statut/facebook-gaming",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -306,7 +602,7 @@
 			"serviceInfo": {
 				"name": "Facebook Messenger",
 				"slug": "/statut/facebook-messenger",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -314,7 +610,7 @@
 			"serviceInfo": {
 				"name": "Fall Guys",
 				"slug": "/statut/fallguys",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -322,7 +618,23 @@
 			"serviceInfo": {
 				"name": "Fallout 76",
 				"slug": "/statut/fallout-76",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "FARMERSINSURANCE", 
+			"serviceInfo": {
+				"name": "Farmers Insurance",
+				"slug": "/statut/farmers-insurance",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "FEDEX", 
+			"serviceInfo": {
+				"name": "Fedex",
+				"slug": "/statut/fedex",
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -330,7 +642,7 @@
 			"serviceInfo": {
 				"name": "FIFA",
 				"slug": "/statut/fifa-ea-sports",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -338,7 +650,15 @@
 			"serviceInfo": {
 				"name": "Fibit",
 				"slug": "/statut/fibit",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "FLORIDAPOWERANDLIGHT", 
+			"serviceInfo": {
+				"name": "Forida Power and Light",
+				"slug": "/statut/florida-power-and-light",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -346,7 +666,7 @@
 			"serviceInfo": {
 				"name": "For Honor",
 				"slug": "/statut/for-honor",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -354,7 +674,7 @@
 			"serviceInfo": {
 				"name": "Forex.com",
 				"slug": "/statut/forex-dot-com",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -362,7 +682,7 @@
 			"serviceInfo": {
 				"name": "Fornite",
 				"slug": "/statut/fornite",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -378,7 +698,15 @@
 			"serviceInfo": {
 				"name": "Friday The 13th: The Game",
 				"slug": "/statut/friday-the-13th-game",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "FRONTIER", 
+			"serviceInfo": {
+				"name": "Frontier",
+				"slug": "/statut/frontier",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -386,7 +714,15 @@
 			"serviceInfo": {
 				"name": "Garmin Connect",
 				"slug": "/statut/garmin-connect",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "GCI", 
+			"serviceInfo": {
+				"name": "Gci",
+				"slug": "/statut/gci",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -394,7 +730,7 @@
 			"serviceInfo": {
 				"name": "GDAX",
 				"slug": "/statut/gdax",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -402,7 +738,23 @@
 			"serviceInfo": {
 				"name": "Gears of War",
 				"slug": "/statut/gears-of-war",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "GEICO", 
+			"serviceInfo": {
+				"name": "Geico",
+				"slug": "/statut/geico",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "GEORGIAPOWER", 
+			"serviceInfo": {
+				"name": "Georgia Power",
+				"slug": "/statut/georgia-power",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -410,7 +762,7 @@
 			"serviceInfo": {
 				"name": "GitHub",
 				"slug": "/statut/github",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -418,7 +770,7 @@
 			"serviceInfo": {
 				"name": "Gmail",
 				"slug": "/statut/gmail",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -426,7 +778,7 @@
 			"serviceInfo": {
 				"name": "GoDaddy",
 				"slug": "/statut/godaddy",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -434,7 +786,23 @@
 			"serviceInfo": {
 				"name": "Google Cloud Platform",
 				"slug": "/statut/google-cloud",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "GOOGLEFI", 
+			"serviceInfo": {
+				"name": "Google Fi",
+				"slug": "/statut/google-fi",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "GOOGLEFIBER", 
+			"serviceInfo": {
+				"name": "Google Fiber",
+				"slug": "/statut/google-fiber",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -442,7 +810,31 @@
 			"serviceInfo": {
 				"name": "Google Nest",
 				"slug": "/statut/google-nest",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "GRANDECOMMUNICATIONS", 
+			"serviceInfo": {
+				"name": "Grande Communications",
+				"slug": "/statut/grande-communications",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "GCEC", 
+			"serviceInfo": {
+				"name": "Grayson Collin Electric Cooperative",
+				"slug": "/statut/grayson-collin-electric-cooperative-gcec",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "GREENLIGHTNETWORK", 
+			"serviceInfo": {
+				"name": "Greenlight Networks",
+				"slug": "/statut/greenlight-network",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -450,7 +842,7 @@
 			"serviceInfo": {
 				"name": "Grand theft auto V",
 				"slug": "/statut/gta-v-grand-theft-auto-v",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -458,7 +850,7 @@
 			"serviceInfo": {
 				"name": "H1Z1",
 				"slug": "/statut/h1z1",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -466,7 +858,23 @@
 			"serviceInfo": {
 				"name": "Halo",
 				"slug": "/statut/halo-game",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "HAWAIIANTELCOM",
+			"serviceInfo": {
+				"name": "Hawaiian Telcom",
+				"slug": "/statut/hawaiian-telcom",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "HBOGO",
+			"serviceInfo": {
+				"name": "HBO Go",
+				"slug": "/statut/hbo-go",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -474,7 +882,7 @@
 			"serviceInfo": {
 				"name": "HBO Max",
 				"slug": "/statut/hbo-max",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -482,7 +890,23 @@
 			"serviceInfo": {
 				"name": "HostGator",
 				"slug": "/statut/hostgator",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "HUGHESNETUSA",
+			"serviceInfo": {
+				"name": "Hughesnet USA",
+				"slug": "/statut/hughesnet-usa",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "HULU",
+			"serviceInfo": {
+				"name": "Hulu",
+				"slug": "/statut/hulu",
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -490,7 +914,15 @@
 			"serviceInfo": {
 				"name": "IG",
 				"slug": "/statut/ig-broker",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "INDIANAMICHIGANPOWER",
+			"serviceInfo": {
+				"name": "Indiana Michigan Power",
+				"slug": "/statut/indiana-michigan-power",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -498,7 +930,7 @@
 			"serviceInfo": {
 				"name": "Instagram",
 				"slug": "/statut/instagram",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -506,7 +938,15 @@
 			"serviceInfo": {
 				"name": "Interactive Brokers",
 				"slug": "/statut/interactive-brokers",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "IRSUSA",
+			"serviceInfo": {
+				"name": "IRS USA",
+				"slug": "/statut/irs-usa",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -514,7 +954,7 @@
 			"serviceInfo": {
 				"name": "iTunes",
 				"slug": "/statut/itunes",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -522,7 +962,7 @@
 			"serviceInfo": {
 				"name": "Kraken",
 				"slug": "/statut/kraken",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -530,7 +970,15 @@
 			"serviceInfo": {
 				"name": "League Of Legends",
 				"slug": "/statut/league-of-legends",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "LIBERTYMUTUAL",
+			"serviceInfo": {
+				"name": "Liberty Mutual",
+				"slug": "/statut/liberty-mutual",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -538,7 +986,15 @@
 			"serviceInfo": {
 				"name": "London Capital Group",
 				"slug": "/statut/london-capital-group-lgc",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "LUMOSNETWORKS",
+			"serviceInfo": {
+				"name": "Lumos Networks",
+				"slug": "/statut/lumos-networks",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -546,7 +1002,31 @@
 			"serviceInfo": {
 				"name": "Mass Effect Andromeda",
 				"slug": "/statut/mass-effect-andromeda",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "MEDIACOM",
+			"serviceInfo": {
+				"name": "Mediacom",
+				"slug": "/statut/mediacom",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "METRONET",
+			"serviceInfo": {
+				"name": "Metronet",
+				"slug": "/statut/metronet",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "METROPCS",
+			"serviceInfo": {
+				"name": "Metropcs",
+				"slug": "/statut/metropcs",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -554,7 +1034,7 @@
 			"serviceInfo": {
 				"name": "Microsoft Azure",
 				"slug": "/statut/microsoft-azure",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -562,7 +1042,15 @@
 			"serviceInfo": {
 				"name": "Microsoft Teams",
 				"slug": "/statut/microsoft-teams",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "MIDCO",
+			"serviceInfo": {
+				"name": "Midco",
+				"slug": "/statut/midco",
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -570,7 +1058,7 @@
 			"serviceInfo": {
 				"name": "Minecraft",
 				"slug": "/statut/minecraft",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -578,7 +1066,7 @@
 			"serviceInfo": {
 				"name": "Monster Hunter",
 				"slug": "/statut/monster-hunter",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -586,7 +1074,23 @@
 			"serviceInfo": {
 				"name": "Namecheap",
 				"slug": "/statut/namecheap",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "NATIONALGRIDUS",
+			"serviceInfo": {
+				"name": "National Grid Us",
+				"slug": "/statut/national-grid-us",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "NATIONWIDE",
+			"serviceInfo": {
+				"name": "Nationwide",
+				"slug": "/statut/nationwide",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -594,7 +1098,7 @@
 			"serviceInfo": {
 				"name": "Netflix",
 				"slug": "/statut/netflix",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -602,7 +1106,7 @@
 			"serviceInfo": {
 				"name": "New World",
 				"slug": "/statut/new-world-game",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -610,7 +1114,15 @@
 			"serviceInfo": {
 				"name": "Nintendo",
 				"slug": "/statut/nintendo-switch",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "NORTHLANDCOMMUNICATIONS",
+			"serviceInfo": {
+				"name": "Northland Communications",
+				"slug": "/statut/northland-communications",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -626,7 +1138,7 @@
 			"serviceInfo": {
 				"name": "OANDA",
 				"slug": "/statut/oanda",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -634,7 +1146,31 @@
 			"serviceInfo": {
 				"name": "Office 365",
 				"slug": "/statut/office-365",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "ONCOR",
+			"serviceInfo": {
+				"name": "Oncor",
+				"slug": "/statut/oncor",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "OPTICALTEL",
+			"serviceInfo": {
+				"name": "Optical",
+				"slug": "/statut/opticaltel",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "OPTIMUMCABLEVISION",
+			"serviceInfo": {
+				"name": "Optimum Cablevision",
+				"slug": "/statut/optimum-cablevision",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -646,11 +1182,19 @@
 			} 
 		},
 		{
+			"canonicName": "ORANGEBANK",
+			"serviceInfo": {
+				"name": "Orange Bank the besti <3",
+				"slug": "/statut/orange-bank",
+				"country": ["FR"]
+			} 
+		},
+		{
 			"canonicName": "ORIGINEA",
 			"serviceInfo": {
 				"name": "Origin EA",
 				"slug": "/statut/origin-ea",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -658,7 +1202,7 @@
 			"serviceInfo": {
 				"name": "Outlook",
 				"slug": "/statut/outlook-hotmail",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -666,7 +1210,7 @@
 			"serviceInfo": {
 				"name": "Overwatch",
 				"slug": "/statut/overwatch-game",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -674,7 +1218,15 @@
 			"serviceInfo": {
 				"name": "Paladins",
 				"slug": "/statut/paladins",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "PANDORA",
+			"serviceInfo": {
+				"name": "Pandora",
+				"slug": "/statut/pandora",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -682,7 +1234,7 @@
 			"serviceInfo": {
 				"name": "Paramount Plus",
 				"slug": "/statut/paramount-plus",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -690,7 +1242,7 @@
 			"serviceInfo": {
 				"name": "Path Of Exile",
 				"slug": "/statut/path-of-exile",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -698,7 +1250,7 @@
 			"serviceInfo": {
 				"name": "PayPal",
 				"slug": "/statut/paypal",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -706,7 +1258,15 @@
 			"serviceInfo": {
 				"name": "Peackock TV",
 				"slug": "/statut/peackock-tv",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "PECOENERGY",
+			"serviceInfo": {
+				"name": "Peco Energy",
+				"slug": "/statut/peco-energy",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -714,7 +1274,15 @@
 			"serviceInfo": {
 				"name": "Pepperstone",
 				"slug": "/statut/pepperstone",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "PGANDE",
+			"serviceInfo": {
+				"name": "Pg And E",
+				"slug": "/statut/pg-and-e",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -722,7 +1290,7 @@
 			"serviceInfo": {
 				"name": "Player Unknowns Battleground",
 				"slug": "/statut/playerunknowns-battlegrounds",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -730,7 +1298,7 @@
 			"serviceInfo": {
 				"name": "PlayStation Network",
 				"slug": "/statut/playstation-network-psn",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -738,7 +1306,7 @@
 			"serviceInfo": {
 				"name": "Plus500",
 				"slug": "/statut/plus500",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -746,7 +1314,23 @@
 			"serviceInfo": {
 				"name": "Pokémon GO",
 				"slug": "/statut/pokemon-go",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "PROGRESSIVE",
+			"serviceInfo": {
+				"name": "Progressive",
+				"slug": "/statut/progressive",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "RCN",
+			"serviceInfo": {
+				"name": "RCN",
+				"slug": "/statut/rcn",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -754,7 +1338,7 @@
 			"serviceInfo": {
 				"name": "Reddit",
 				"slug": "/statut/reddit",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -762,7 +1346,15 @@
 			"serviceInfo": {
 				"name": "Ring",
 				"slug": "/statut/ring",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "RISEBROADBAND",
+			"serviceInfo": {
+				"name": "Rise Broadband",
+				"slug": "/statut/rise-broadband",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -770,7 +1362,7 @@
 			"serviceInfo": {
 				"name": "RobinHood",
 				"slug": "/statut/robinhood",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -778,7 +1370,7 @@
 			"serviceInfo": {
 				"name": "Roblox",
 				"slug": "/statut/roblox",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -786,7 +1378,7 @@
 			"serviceInfo": {
 				"name": "Rocket League",
 				"slug": "/statut/rocket-league",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -794,7 +1386,7 @@
 			"serviceInfo": {
 				"name": "Roku",
 				"slug": "/statut/roku",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -802,7 +1394,15 @@
 			"serviceInfo": {
 				"name": "Runescape",
 				"slug": "/statut/runescape",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "SCE",
+			"serviceInfo": {
+				"name": "Southern California Edison",
+				"slug": "/statut/sce-southern-california-edison",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -810,7 +1410,15 @@
 			"serviceInfo": {
 				"name": "Sea Of Thieves",
 				"slug": "/statut/sea-of-thieves-game",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "SERVICEELECTRIC",
+			"serviceInfo": {
+				"name": "Service Electric",
+				"slug": "/statut/service-electric",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -826,7 +1434,15 @@
 			"serviceInfo": {
 				"name": "Shazam",
 				"slug": "/statut/shazam",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "SHENTEL",
+			"serviceInfo": {
+				"name": "Shentel",
+				"slug": "/statut/shentel",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -834,7 +1450,15 @@
 			"serviceInfo": {
 				"name": "Signal Messenger",
 				"slug": "/statut/signal-messenger",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "SIMPLEMOBILE",
+			"serviceInfo": {
+				"name": "Simple Mobile",
+				"slug": "/statut/simple-mobile",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -842,7 +1466,7 @@
 			"serviceInfo": {
 				"name": "Skype",
 				"slug": "/statut/skype",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -850,7 +1474,23 @@
 			"serviceInfo": {
 				"name": "Slack",
 				"slug": "/statut/slack",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "SLEMCO",
+			"serviceInfo": {
+				"name": "Slemco",
+				"slug": "/statut/slemco",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "SLING",
+			"serviceInfo": {
+				"name": "Sling",
+				"slug": "/statut/sling",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -858,7 +1498,7 @@
 			"serviceInfo": {
 				"name": "Smite",
 				"slug": "/statut/smite",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -866,7 +1506,15 @@
 			"serviceInfo": {
 				"name": "Snapchat",
 				"slug": "/statut/snapchat",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "SWEPCO",
+			"serviceInfo": {
+				"name": "Southwestern Electric Power SWEPCO",
+				"slug": "/statut/southwestern-electric-power-swepco",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -874,7 +1522,7 @@
 			"serviceInfo": {
 				"name": "Spotify",
 				"slug": "/statut/spotify",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -882,7 +1530,7 @@
 			"serviceInfo": {
 				"name": "Star Wars Battlefront",
 				"slug": "/statut/star-wars-battlefront",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -890,7 +1538,15 @@
 			"serviceInfo": {
 				"name": "Starlink",
 				"slug": "/statut/starlink",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "STATEFARM",
+			"serviceInfo": {
+				"name": "State Farm",
+				"slug": "/statut/state-farm",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -898,7 +1554,23 @@
 			"serviceInfo": {
 				"name": "Steam",
 				"slug": "/statut/steam",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "STRAIGHTTALK",
+			"serviceInfo": {
+				"name": "Straight Talk",
+				"slug": "/statut/straight-talk",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "SUDDENKINK",
+			"serviceInfo": {
+				"name": "Suddenlink",
+				"slug": "/statut/suddenlink",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -906,7 +1578,15 @@
 			"serviceInfo": {
 				"name": "Super Mario Run",
 				"slug": "/statut/super-mario-run",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "TMOBILE",
+			"serviceInfo": {
+				"name": "T Mobile",
+				"slug": "/statut/t-mobile",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -914,7 +1594,15 @@
 			"serviceInfo": {
 				"name": "TD Ameritrade",
 				"slug": "/statut/td-ameritrade",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "TDSTELECOM",
+			"serviceInfo": {
+				"name": "TDS Telecom",
+				"slug": "/statut/tds-telecom",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -922,7 +1610,7 @@
 			"serviceInfo": {
 				"name": "Telegram",
 				"slug": "/statut/telegram",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -930,7 +1618,7 @@
 			"serviceInfo": {
 				"name": "The Elder Scrolls Online",
 				"slug": "/statut/the-elder-scrolls-online",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -938,7 +1626,7 @@
 			"serviceInfo": {
 				"name": "TikTok",
 				"slug": "/statut/tiktok",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -946,7 +1634,7 @@
 			"serviceInfo": {
 				"name": "Tinder",
 				"slug": "/statut/tinder",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -954,7 +1642,7 @@
 			"serviceInfo": {
 				"name": "Tom Clancy: Ghost Recon",
 				"slug": "/statut/tom-clancy-ghost-recon",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -962,7 +1650,7 @@
 			"serviceInfo": {
 				"name": "Tom Clancy: Rainbow Six Siege",
 				"slug": "/statut/tom-clancy-rainbow-six-siege",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -970,7 +1658,15 @@
 			"serviceInfo": {
 				"name": "Tom Clancy: The Division",
 				"slug": "/statut/tom-clancys-the-division",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "TRACFONWIRLESS",
+			"serviceInfo": {
+				"name": "Tracfone Wirless",
+				"slug": "/statut/tracfone-wirless",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -978,7 +1674,7 @@
 			"serviceInfo": {
 				"name": "Trading 212",
 				"slug": "/statut/trading-212",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -986,7 +1682,7 @@
 			"serviceInfo": {
 				"name": "Twitch",
 				"slug": "/statut/twitch",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -994,7 +1690,7 @@
 			"serviceInfo": {
 				"name": "Twitter",
 				"slug": "/statut/twitter",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -1002,7 +1698,39 @@
 			"serviceInfo": {
 				"name": "Uplay",
 				"slug": "/statut/uplay-ubisoft",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "UPS",
+			"serviceInfo": {
+				"name": "UPS",
+				"slug": "/statut/ups",
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "USCELLULAR",
+			"serviceInfo": {
+				"name": "US Cellular",
+				"slug": "/statut/us-cellular",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "USAA",
+			"serviceInfo": {
+				"name": "United Services Automobile Association",
+				"slug": "/statut/usaa",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "USPS",
+			"serviceInfo": {
+				"name": "United States Postal Service",
+				"slug": "/statut/usps",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -1010,7 +1738,39 @@
 			"serviceInfo": {
 				"name": "Valorant",
 				"slug": "/statut/valorant",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "VASTBROADBAND",
+			"serviceInfo": {
+				"name": "Vast Broadband",
+				"slug": "/statut/vast-broadband",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "VERIZON",
+			"serviceInfo": {
+				"name": "Verizon",
+				"slug": "/statut/verizon",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "VERIZONFIOS",
+			"serviceInfo": {
+				"name": "Verizon FIOS",
+				"slug": "/statut/verizon-fios",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "VIASAT",
+			"serviceInfo": {
+				"name": "Viasat",
+				"slug": "/statut/viasat",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -1018,7 +1778,23 @@
 			"serviceInfo": {
 				"name": "Viber",
 				"slug": "/statut/viber",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "VIRGINMOBILE",
+			"serviceInfo": {
+				"name": "Virgin Mobile",
+				"slug": "/statut/virgin-mobile",
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "WALMARTFAMILYMOBILE",
+			"serviceInfo": {
+				"name": "Walmart Family Mobile",
+				"slug": "/statut/walmart-family-mobile",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -1026,7 +1802,15 @@
 			"serviceInfo": {
 				"name": "Warframe",
 				"slug": "/statut/warframe",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "WAVEBROADBAND",
+			"serviceInfo": {
+				"name": "Wave Broadband",
+				"slug": "/statut/wawe-broadband",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -1034,7 +1818,15 @@
 			"serviceInfo": {
 				"name": "Waze",
 				"slug": "/statut/waze",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "WELLSFARGO",
+			"serviceInfo": {
+				"name": "Wells Fargo",
+				"slug": "/statut/wells-fargo",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -1042,7 +1834,23 @@
 			"serviceInfo": {
 				"name": "What's App",
 				"slug": "/statut/whatsapp-messenger",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "WIDEOPENWESTNETWORKS",
+			"serviceInfo": {
+				"name": "Wideopenwest Networks",
+				"slug": "/statut/wideopenwest-networks",
+				"country": ["US"]
+			} 
+		},
+		{
+			"canonicName": "WINDSTREAM",
+			"serviceInfo": {
+				"name": "WINDSTREAM",
+				"slug": "/statut/windstream",
+				"country": ["US"]
 			} 
 		},
 		{
@@ -1050,7 +1858,7 @@
 			"serviceInfo": {
 				"name": "World Of Warcraft",
 				"slug": "/statut/world-of-warcraft",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -1058,7 +1866,7 @@
 			"serviceInfo": {
 				"name": "XBOX Live",
 				"slug": "/statut/xbox-live",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -1066,7 +1874,7 @@
 			"serviceInfo": {
 				"name": "XM Trading",
 				"slug": "/statut/xm-trading",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -1074,7 +1882,7 @@
 			"serviceInfo": {
 				"name": "XTB Trading",
 				"slug": "/statut/xtb-trading",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -1082,7 +1890,7 @@
 			"serviceInfo": {
 				"name": "Yahoo Mail",
 				"slug": "/statut/yahoo-mail",
-				"country": ["FR"]
+				"country": ["FR", "US"]
 			} 
 		},
 		{
@@ -1090,7 +1898,15 @@
 			"serviceInfo": {
 				"name": "YouTube",
 				"slug": "/statut/youtube",
-				"country": ["FR"]
+				"country": ["FR", "US"]
+			} 
+		},
+		{
+			"canonicName": "ZIPLYFIBER",
+			"serviceInfo": {
+				"name": "Ziply Fiber",
+				"slug": "/statut/ziply-fiber",
+				"country": ["US"]
 			} 
 		},
 		{

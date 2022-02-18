@@ -28,5 +28,8 @@ const configFile = require('../lib/config.json');
 	console.log(result);
 	//console.log(configFile.config.country.length);
 	
+	/** Get servicesList length **/
+	console.log('Number of services available:',configFile.servicesList.length);
+	console.log('In ' + (configFile.config.country.length -1) + ' countries');
 	
 })()
