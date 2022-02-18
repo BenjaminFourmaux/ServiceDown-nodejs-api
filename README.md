@@ -63,6 +63,7 @@ You received a JSON responce :
 ## Version
 [![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/tags) [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/releases)
 
+- **v1.5.1** : "i18n-US" Add servicelist from US
 - **v1.5.0** : "i18n" Change config file and add report stats info in the response (most repporting troubles) [more information](CHANGELOG.md#one-v150)
 - **v1.2.0** : Add statut cause to the responde object [more imformation](CHANGELOG.md#one-v120)
 - **v1.1.0** : Add service name to the response object and get the statut of a service by his canonic name [more imformation](CHANGELOG.md#one-v110)
