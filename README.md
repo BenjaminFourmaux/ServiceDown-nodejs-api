@@ -51,7 +51,7 @@ You received a JSON responce :
 }
 ```
 
-## Roadmap :placard:
+## Roadmap
 - [x] Send a request to get a service statut
 - [x] Define status (Down, Ok, Warning, None)
 - [x] Response return the service name that we have just ask
@@ -71,7 +71,7 @@ You received a JSON responce :
 - **v1.1.0** : Add service name to the response object and get the statut of a service by his canonic name [more imformation](CHANGELOG.md#one-v110)
 - **v1.0.0** : First one release ! You can now get the status of an service [more imformation](CHANGELOG.md#one-v100)
 
-## Contributor :busts_in_silhouette:
+## Contributors
 [![](https://badgen.net/github/contributors/BenjaminFourmaux/ServiceDown-js-api)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/graphs/contributors)
 - :crown: [Benjamin Fourmaux](https://github.com/BenjaminFourmaux)
 
