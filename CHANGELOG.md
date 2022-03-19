@@ -1,9 +1,17 @@
 # Changelog
 [![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown_api?cache=600)]() [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown_api?cache=600)]() [![](https://badgen.net/github/branches/BenjaminFourmaux/ServiceDown_api)]() [![](https://badgen.net/github/releases/BenjaminFourmaux/ServiceDown_api)]() [![](https://badgen.net/github/tags/BenjaminFourmaux/ServiceDown_api)]()
 
+## v1.6.0
+### Adding
+ - Add new function ``getLatestReportsCities()`` to get latest reports of cities.
+ - Add new property in the Reponse ``latest_reports_citie`` to get latest reports of cities. It's an array of object : ``{ city: string, country: string, reason_tag: string, last_time: date }`` 
+
+### Modified
+ - Code refactor
+
 ## v1.5.0
 ### Adding
- - Add new property in the Responce: ``status_report_stats`` for get some metrics about the service
+ - Add new property in the Response: ``status_report_stats`` for get some metrics about the service
  - Add "FR" servicesList
  - Add new function ``getDoughtnutList()`` to find in DOM element doughtnutlist and get the new metrics data (most repporting)
  - Add new function ``getDomainExtension()`` to get domaine extension by the canonic name from config
