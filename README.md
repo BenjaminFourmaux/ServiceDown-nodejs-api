@@ -81,11 +81,11 @@ You received a JSON response :
 ## Version
 [![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/tags) [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/releases)
 
-- **1.6.0** : "Latest reports cities" Add new property : 'latest_report_cities' for getting the cities of latest reports [more information](CHANGELOG.md#one-v160)
+- **1.6.0** : "Latest reports cities" Add new property : 'latest_report_cities' for getting the cities of latest reports [more information](CHANGELOG.md#v160)
 - **v1.5.1** : "i18n-US" Add servicelist from US
-- **v1.5.0** : "i18n" Change config file and add report stats info in the response (most repporting troubles) [more information](CHANGELOG.md#one-v150)
-- **v1.2.0** : Add statut cause to the responde object [more imformation](CHANGELOG.md#one-v120)
-- **v1.1.0** : Add service name to the response object and get the statut of a service by his canonic name [more imformation](CHANGELOG.md#one-v110)
+- **v1.5.0** : "i18n" Change config file and add report stats info in the response (most repporting troubles) [more information](CHANGELOG.md#v150)
+- **v1.2.0** : Add statut cause to the responde object [more imformation](CHANGELOG.md#v120)
+- **v1.1.0** : Add service name to the response object and get the statut of a service by his canonic name [more imformation](CHANGELOG.md#v110)
 - **v1.0.0** : First one release ! You can now get the status of an service [more imformation](CHANGELOG.md#one-v100)
 
 ## Contributors
