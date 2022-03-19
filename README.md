@@ -34,7 +34,7 @@ Use the function ``getServiceStatus()`` in a asynchronous callback, with the ser
   serviceStatus = await API.getServiceStatus("facebook", "fr");
 }) ()
 ```
-You received a JSON responce :
+You received a JSON response :
 ```
 {
   service_name : "Facebook",
@@ -46,6 +46,21 @@ You received a JSON responce :
     ...
   },
   country : "fr",
+  latest_reports_cities : [
+    {
+      "city": Tours,
+      "country": "fr",
+      "reason_tag": "Televsion",
+      "last_time": "2022-03-19T10:08:55-04:00"
+    }, 
+    {
+      "city": Poitiers,
+      "country": "fr",
+      "reason_tag": "Wi-Fi",
+      "last_time": "2022-03-19T15:23:01-04:00"
+    },
+    ...
+  ]
   src : "https://istheservicedown.fr/statut/facebook",
   datetime : 2022-01-03T10H00:00.000Z
 }
@@ -57,6 +72,7 @@ You received a JSON responce :
 - [x] Response return the service name that we have just ask
 - [x] Response return the cause of the status of the service we have just ask 
 - [x] Metrics: report stats info
+- [x] Get cities of latest report and reason tag
 - [ ] Get report numbers (max, min, average, now)
 - [ ] Get down area (city and number of report)
 - [x] Add multi-country service down ?
@@ -65,6 +81,7 @@ You received a JSON responce :
 ## Version
 [![](https://badgen.net/github/tag/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/tags) [![](https://badgen.net/github/release/BenjaminFourmaux/ServiceDown-js-api?cache=600)](https://github.com/BenjaminFourmaux/ServiceDown-js-api/releases)
 
+- **1.6.0** : "Latest reports cities" Add new property : 'latest_report_cities' for getting the cities of latest reports [more information](CHANGELOG.md#one-v160)
 - **v1.5.1** : "i18n-US" Add servicelist from US
 - **v1.5.0** : "i18n" Change config file and add report stats info in the response (most repporting troubles) [more information](CHANGELOG.md#one-v150)
 - **v1.2.0** : Add statut cause to the responde object [more imformation](CHANGELOG.md#one-v120)
